@@ -1,0 +1,3 @@
+[parachain]
+name = "Centrifuge"
+version = "0.0.3"
